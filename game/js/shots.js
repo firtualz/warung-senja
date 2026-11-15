@@ -1,4 +1,4 @@
-// WARUNG SENJA — adegan screenshot yang deterministik (?shot=<nama>).
+// SUNSET STALL — adegan screenshot yang deterministik (?shot=<nama>).
 // Setiap adegan dirender oleh kode game yang sama (bukan gambar tempelan):
 // state dibuat dari seed tetap, waktu dibekukan, lalu satu frame digambar.
 // Dipakai untuk 4 screenshot: cover (gameplay langsung), title, play, nightend.

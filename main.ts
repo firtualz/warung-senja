@@ -1,4 +1,4 @@
-// WARUNG SENJA — program entri best-game-01 (Node 22, standard library only).
+// SUNSET STALL — program entri best-game-01 (Node 22, standard library only).
 // Menyalin game/ dan screenshots/ dari samping file ini ke /output, lalu menulis
 // /output/dossier.json dengan library make.fun yang divendor (vendor/makefun-game.ts).
 // Di luar container grader, MAKEFUN_OUTPUT_DIR menggantikan /output:

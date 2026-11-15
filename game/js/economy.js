@@ -1,4 +1,4 @@
-// WARUNG SENJA — ekonomi: koin, belanja bahan, upgrade, dan target malam.
+// SUNSET STALL — ekonomi: koin, belanja bahan, upgrade, dan target malam.
 // Semua harga di sini sama dengan yang terlihat di layar: tidak ada angka palsu.
 import { INGREDIENTS, UPGRADES, START_COINS, START_STOCK, MENU } from './config.js';
 

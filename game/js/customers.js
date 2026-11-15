@@ -1,4 +1,4 @@
-// WARUNG SENJA — pelanggan. Datang, memesan, menunggu dengan sabar yang menipis,
+// SUNSET STALL — pelanggan. Datang, memesan, menunggu dengan sabar yang menipis,
 // lalu pergi senang (bayar + tip) atau marah (sabar habis).
 import { MENU_ORDER, clamp } from './config.js';
 

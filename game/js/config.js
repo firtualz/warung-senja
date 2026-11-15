@@ -1,4 +1,4 @@
-// WARUNG SENJA — data & tuning. Semua angka ekonomi di sini nyata dan dipakai
+// SUNSET STALL — data & tuning. Semua angka ekonomi di sini nyata dan dipakai
 // langsung oleh permainan: harga jual, biaya bahan, target malam, dan upgrade.
 export const W = 1280;
 export const H = 720;

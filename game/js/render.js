@@ -1,4 +1,4 @@
-// WARUNG SENJA — gambar. Semua grafis digambar dengan Canvas 2D (bentuk datar,
+// SUNSET STALL — gambar. Semua grafis digambar dengan Canvas 2D (bentuk datar,
 // gradien hangat): langit senja Surabaya, lampion, warung kayu, pelanggan, dan HUD.
 // Tidak ada gambar atau font dari luar: semua dari kode ini.
 import { W, H, MENU, MENU_ORDER, INGREDIENTS, UPGRADES, GOAL_COINS, WIN_TEXT, CONTROLS_TEXT, fmtRp } from './config.js';
@@ -328,7 +328,7 @@ export function drawStall(ctx, t, s) {
   ctx.lineWidth = 3;
   roundRect(ctx, 300, 176, 260, 46, 10);
   ctx.stroke();
-  text(ctx, 'WARUNG SENJA', 430, 200, 26, '#ffb347');
+  text(ctx, 'SUNSET STALL', 430, 200, 26, '#ffb347');
 
   // Juru masak di balik meja (tengah), mengaduk saat ada yang dimasak.
   const cooking = s.kitchen.pots.some((p) => p.busy);
@@ -702,7 +702,7 @@ function panel(ctx, x, y, w, h) {
 
 export function drawTitle(ctx, s, t) {
   dim(ctx, 0.45);
-  outlinedText(ctx, 'WARUNG SENJA', W / 2, 190, 84, '#ffb347');
+  outlinedText(ctx, 'SUNSET STALL', W / 2, 190, 84, '#ffb347');
   text(ctx, 'Night Ramen Stall — Surabaya', W / 2, 248, 26, '#fff3d6');
   outlinedText(ctx, '🎯 ' + WIN_TEXT, W / 2, 312, 22, '#ffd166');
   text(ctx, 'Serve the right bowl before patience runs out.', W / 2, 348, 20, '#fff3d6');

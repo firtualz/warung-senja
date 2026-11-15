@@ -1,4 +1,4 @@
-// WARUNG SENJA — titik masuk & mesin permainan: state, loop, malam, dan semua aksi.
+// SUNSET STALL — titik masuk & mesin permainan: state, loop, malam, dan semua aksi.
 // Satu kalimat: sajikan mangkuk yang tepat sebelum sabar pelanggan habis.
 import {
   W, H, MENU, MENU_ORDER, NIGHTS, TOTAL_NIGHTS, GOAL_COINS, MAX_ANGRY_PER_NIGHT,

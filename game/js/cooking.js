@@ -1,4 +1,4 @@
-// WARUNG SENJA — dapur: tempat masak (panci), nampan sajian, dan stok bahan.
+// SUNSET STALL — dapur: tempat masak (panci), nampan sajian, dan stok bahan.
 // Masak punya jendela "sempurna": ambil di zona hijau = masakan sempurna (+tip).
 import { MENU, BASE_POTS, MAX_TRAY, clamp } from './config.js';
 

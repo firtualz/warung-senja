@@ -1,4 +1,4 @@
-// WARUNG SENJA — partikel & teks melayang: uap, percikan, koin terbang, dan angka
+// SUNSET STALL — partikel & teks melayang: uap, percikan, koin terbang, dan angka
 // "+Rp22.000" yang naik lalu hilang. Satu tugas saja: umpan balik visual.
 export class FX {
   constructor() {

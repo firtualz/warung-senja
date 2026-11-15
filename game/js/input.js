@@ -1,4 +1,4 @@
-// WARUNG SENJA — input: klik mouse (dipetakan ke koordinat logis 1280x720) dan
+// SUNSET STALL — input: klik mouse (dipetakan ke koordinat logis 1280x720) dan
 // keyboard. Satu tugas saja: mengubah kejadian browser menjadi panggilan handler.
 export function attachInput(canvas, handlers) {
   function toLogical(e) {

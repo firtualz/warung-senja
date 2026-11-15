@@ -1,4 +1,4 @@
-// WARUNG SENJA — suara. Semua bunyi dibuat dengan WebAudio (oscillator), tanpa
+// SUNSET STALL — suara. Semua bunyi dibuat dengan WebAudio (oscillator), tanpa
 // file suara: klik, ding masakan selesai, koin, pelanggan marah, dan jingle menang.
 export class SoundFX {
   constructor() {
