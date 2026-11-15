@@ -220,20 +220,6 @@ export function drawBackground(ctx, t, seedGlow) {
   ctx.fill();
   ctx.fillStyle = '#8a6d3b';
   ctx.fillRect(268, 588, 24, 10);
-  // Papan menu berdiri di kanan bawah.
-  ctx.fillStyle = '#2b1a12';
-  roundRect(ctx, 1186, 520, 78, 118, 8);
-  ctx.fill();
-  ctx.strokeStyle = '#ffb347';
-  ctx.lineWidth = 2;
-  roundRect(ctx, 1186, 520, 78, 118, 8);
-  ctx.stroke();
-  text(ctx, 'MENU', 1225, 538, 13, '#ffb347');
-  text(ctx, 'BROTH 20K', 1225, 562, 11, '#fff3d6');
-  text(ctx, 'SPICY 22K', 1225, 582, 11, '#fff3d6');
-  text(ctx, 'GYOZA 15K', 1225, 602, 11, '#fff3d6');
-  text(ctx, 'TEA 8K', 1225, 622, 11, '#fff3d6');
-
   // Lampu string melintasi langit.
   ctx.strokeStyle = 'rgba(40,20,10,0.9)';
   ctx.lineWidth = 3;

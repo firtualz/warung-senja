@@ -8,7 +8,7 @@ export const GOAL_COINS = 750000;
 export const TOTAL_NIGHTS = 5;
 export const WIN_TEXT = 'EARN Rp750.000 IN 5 NIGHTS';
 export const CONTROLS_TEXT =
-  '1-4 COOK  ·  CLICK POT TO TAKE DISH  ·  CLICK CUSTOMER TO SELECT  ·  SPACE SERVE  ·  P PAUSE  ·  R RESTART  ·  M SOUND';
+  '1-4 COOK  ·  CLICK POT & CUSTOMER  ·  SPACE SERVE  ·  P PAUSE  ·  R RESTART';
 
 export const MENU = {
   kuah: {
